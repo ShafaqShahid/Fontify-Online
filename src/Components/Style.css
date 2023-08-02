@@ -1,0 +1,11 @@
+.dark {
+    background-color: black;
+    color: white;
+  }
+  
+  .dark .navbar-brand {
+    color: white; 
+  }
+  
+  /* Other dark mode styles */
+  

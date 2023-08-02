@@ -1,0 +1,9 @@
+/*h1,h2{
+    color: #1c8454;
+}*/
+    p{
+        color: #3e703eda;
+    }
+    .light-mode p {
+        color: black;
+      }
