@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fontify-Online/static/css/main.91ada58d.css",
+    "main.js": "/Fontify-Online/static/js/main.ee2ac185.js",
+    "static/js/787.b701888c.chunk.js": "/Fontify-Online/static/js/787.b701888c.chunk.js",
+    "index.html": "/Fontify-Online/index.html",
+    "main.91ada58d.css.map": "/Fontify-Online/static/css/main.91ada58d.css.map",
+    "main.ee2ac185.js.map": "/Fontify-Online/static/js/main.ee2ac185.js.map",
+    "787.b701888c.chunk.js.map": "/Fontify-Online/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91ada58d.css",
+    "static/js/main.ee2ac185.js"
+  ]
+}
