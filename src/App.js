@@ -39,7 +39,7 @@ function App() {
         <Navbar title="Fontify Online" mode={mode} toggleMode={toggleMode}/>
        <Alert alert={alert}/>
         <Routes>
-          <Route path="/" element={<TextForm showAlert={showAlert}/>} />
+          <Route path="/Fontify-Online" element={<TextForm showAlert={showAlert}/>} />
           <Route path="/about" element={<About />} />
         </Routes>
         <Footer/>
