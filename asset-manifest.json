@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/Fontify-Online/static/css/main.91ada58d.css",
-    "main.js": "/Fontify-Online/static/js/main.ee2ac185.js",
+    "main.js": "/Fontify-Online/static/js/main.55cb3e17.js",
     "static/js/787.b701888c.chunk.js": "/Fontify-Online/static/js/787.b701888c.chunk.js",
+    "static/media/favicon.png": "/Fontify-Online/static/media/favicon.55a5b524e0184de55435.png",
     "index.html": "/Fontify-Online/index.html",
     "main.91ada58d.css.map": "/Fontify-Online/static/css/main.91ada58d.css.map",
-    "main.ee2ac185.js.map": "/Fontify-Online/static/js/main.ee2ac185.js.map",
+    "main.55cb3e17.js.map": "/Fontify-Online/static/js/main.55cb3e17.js.map",
     "787.b701888c.chunk.js.map": "/Fontify-Online/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91ada58d.css",
-    "static/js/main.ee2ac185.js"
+    "static/js/main.55cb3e17.js"
   ]
 }
