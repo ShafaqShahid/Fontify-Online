@@ -1,5 +1,5 @@
 // Footer.js
-
+import logo from "../image/favicon.png"
 import React from 'react';
 import './Footer.css'; // Import your CSS file for styling
 
@@ -8,7 +8,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-logo">
-          <img src="favicon.png" alt=" Logo" />
+          <img src={logo} alt=" Logo" />
           <h3>Fontify Online</h3>
         </div>
       

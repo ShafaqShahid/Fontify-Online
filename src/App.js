@@ -1,8 +1,8 @@
 import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import About from './Components/About';
+import About from './pages/About';
 import Navbar from './Components/Navbar';
-import TextForm from './Components/TextForm';
+import TextForm from './pages/TextForm';
 import { useState } from 'react';
 import Alert from './Components/Alert';
 import Footer from './Components/Footer';
@@ -39,7 +39,7 @@ function App() {
         <Navbar title="Fontify Online" mode={mode} toggleMode={toggleMode}/>
        <Alert alert={alert}/>
         <Routes>
-          <Route path="/Fontify Online" element={<TextForm showAlert={showAlert}/>} />
+          <Route path="/" element={<TextForm showAlert={showAlert}/>} />
           <Route path="/about" element={<About />} />
         </Routes>
         <Footer/>
